@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#1C1B1F"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Gradient radial accent -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M0,0h108v108h-108z"
+        android:alpha="0.35" />
+    <!-- Subtle radar circle 1 -->
+    <path
+        android:strokeColor="#FF5722"
+        android:strokeWidth="1.5"
+        android:pathData="M54,16 A38,38 0 1,1 53.99,16"
+        android:alpha="0.25" />
+    <!-- Subtle radar circle 2 -->
+    <path
+        android:strokeColor="#FF9800"
+        android:strokeWidth="1.2"
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28"
+        android:alpha="0.3" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Tanggap Bencana",
+  "description": "Simulasi edukasi tanggap 11 bencana alam dengan Card Carousel interaktif, animasi dramatis di depan layar, haptic feedback getaran, dan Mode Kuis Mitigasi Beruntun dengan batas waktu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
